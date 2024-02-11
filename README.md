@@ -12,8 +12,8 @@
 ### :zap: Actividad Reciente
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/midudev/aprendiendo-react/pull/38) in [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)
-2. 🎉 Merged PR [#37](https://github.com/midudev/aprendiendo-react/pull/37) in [midudev/aprendiendo-react](https://github.com/midudev/aprendiendo-react)
+1. 🎉 Merged PR [#1](https://github.com/eavelasquez/solana-crowd-funding/pull/1) in [eavelasquez/solana-crowd-funding](https://github.com/eavelasquez/solana-crowd-funding)
+2. 💪 Opened PR [#1](https://github.com/eavelasquez/solana-crowd-funding/pull/1) in [eavelasquez/solana-crowd-funding](https://github.com/eavelasquez/solana-crowd-funding)
 3. 🎉 Merged PR [#64](https://github.com/midudev/preguntas-entrevista-react/pull/64) in [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
 4. 🎉 Merged PR [#67](https://github.com/midudev/preguntas-entrevista-react/pull/67) in [midudev/preguntas-entrevista-react](https://github.com/midudev/preguntas-entrevista-react)
 5. 🎉 Merged PR [#4](https://github.com/midudev/libros-programacion-gratis/pull/4) in [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)
